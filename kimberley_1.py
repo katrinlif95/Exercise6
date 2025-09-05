@@ -4,3 +4,5 @@ y = 2
 print(x + y)
 
 print("Halló")
+print("bye")
+
